@@ -1,7 +1,7 @@
 package test;
 
 import java.util.Arrays;
-
+//测试使用
 public class tss {
 
 	public static void main(String[] args) {
@@ -18,7 +18,7 @@ public class tss {
 //			}
 //		}
 //		String result = Integer.toString(x);
-//		System.out.println("���"+result);
+//		System.out.println("½á¹û"+result);
 //		int x=3,y;
 //		y=(x++)+(x++)+(++x);
 //		System.out.println(y);
